@@ -12,4 +12,4 @@ ENV PORT=8080
 EXPOSE 8080
 
 # Start the server
-CMD ["node", "server.js"]
+CMD ["node", "realtime.js"]
